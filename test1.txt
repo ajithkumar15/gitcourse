@@ -1,7 +1,2 @@
 Hello world!
 features line
-adding rebase content!
-adding feature content!
-adding merge content!
-This is my first programming language!
-This is my feature programming language!
